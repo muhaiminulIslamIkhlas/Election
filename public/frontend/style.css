@@ -1,0 +1,44 @@
+body {
+  font-family: "Nikosh", sans-serif;
+  font-size: 14px;
+  background-image: url("images/background.png");
+  background-repeat: repeat;
+  background-position: center center;
+  padding: 0 0 0 0 !important;
+}
+
+body a:link {
+  color: #000;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.banner {
+  height: 20px;
+}
+
+.shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.custom {
+  margin-right: 50px;
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+.sticky-top {
+  margin-right: 0 !important;
+  background-color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+  transition: 0.3s;
+  padding: 0.5rem 0 !important;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+}
